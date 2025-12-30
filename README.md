@@ -1,2 +1,3 @@
 # BrachaAI
-This is an AI-based personal assistant app
+Bracha AI is an intelligent digital assistant designed for small and medium-sized business owners. The system serves as a comprehensive solution for managing daily business interactions by leveraging audio processing and AI. 
+The system operates by monitoring call recordings on the user's mobile device. Once a call is completed, Bracha AI automatically analyzes the audio content, extracting key insights such as main topics, action items, deadlines, and future commitments. This information is stored in a dedicated CRM module, allowing the business owner to receive real-time context (via a popup) during incoming calls and ensuring seamless synchronization with external tools like calendars and emails. The project aims to replace expensive secretarial services and eliminate human error in task management.
